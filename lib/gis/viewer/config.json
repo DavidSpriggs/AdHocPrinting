@@ -1,0 +1,12 @@
+{
+    "geometryServiceURL": "http://psstldemo3.esri.com/arcgis/rest/services/Geometry/GeometryServer",
+    "proxyPage": {
+        "url": "proxy/proxy.ashx",
+        "alwaysUseProxy": false
+    },
+    "defaultappId": "a5dcd8b2e0d544548b5787ad8959c185",
+    "orgSharingURL": "http://holistic.maps.arcgis.com/sharing/content/items",
+    "printTaskURL": "http://psstldemo3.esri.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task"
+}
+
+

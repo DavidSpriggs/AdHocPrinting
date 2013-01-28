@@ -1,0 +1,75 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border: 0;
+    background: #FFFFFF;
+}
+
+#header {
+    background: url("../images/linen.jpg") repeat-x scroll left top transparent;
+    border-bottom: 1px solid #D8D8D8;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.headerLogo {
+    float: left;
+    left: 10px;
+    position: relative;
+    top: 8px;
+}
+
+.headerTitle {
+    color: #FFFFFF;
+    float: left;
+    font-size: 16pt;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-top: 15px;
+    position: relative;
+}
+
+.subHeaderTitle {
+    color: #CFCFCF;
+    font-size: small;
+    padding-left: 20px;
+}
+
+#borderContainer {
+    position: absolute;
+    top: 70px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #FFFFFF
+}
+
+#TabContainer {
+    width: 250px;
+}
+
+#left {
+    width: 250px;
+}
+
+#map {
+    padding: 0;
+    margin: 0;
+}
+
+#topRightMenu {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    z-index: 40;
+}
+
+#growlContainer {
+    position: absolute;
+    right: 0px;
+    top: 35px;
+    z-index: 99;
+}
